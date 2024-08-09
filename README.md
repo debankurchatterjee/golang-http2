@@ -1,7 +1,6 @@
 # Golang - Http2
 
-This app handles http2 request using golang,by default http2 will run TLS so we need to generate the certificates
-here we are generating openssl certs
+This app handles http2 request using golang,by default http2 will runs on TLS, so we need to generate the certificates.
 
 ## Generate Certs
 ```text
